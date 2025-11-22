@@ -11,7 +11,7 @@ export default class Mission {
   }
 
   async LoadMission(missionFile) {
-    let file = await fetch(missionFile);
+    let file = await fetch(process.env.PUBLIC_URL + missionFile);
     let jsondata = await file.json();
     this.map = new Map(jsondata.map);
     this.sky = new Sprite(jsondata.sky);

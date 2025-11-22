@@ -6,10 +6,10 @@ function GamePage() {
   return (
     <div className="GamePage">
       <Header
-        title="ASCII FPS"
-        menu={["Author", "Contact", "GitHub", "Portifolio"]}
+        title="Wolfenstein ASCII FPS"
+        menu={["GitHub"]}
       />
-      <ASCIIFPS />
+      <ASCIIFPS/>
     </div>
   );
 }
