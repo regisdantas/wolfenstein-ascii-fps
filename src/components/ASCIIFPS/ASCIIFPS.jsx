@@ -10,7 +10,7 @@ import {
   Bullet,
 } from "../ascii-game-engine";
 
-const testMission = "/examples/test-mission/test-mission.json";
+const testMission = "/examples/mission-01/mission-01.json";
 
 const bulletSprite = [" | ", "-O-", " | "];
 
