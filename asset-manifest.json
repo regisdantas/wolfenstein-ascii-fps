@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/wolfenstein-ascii-fps/static/css/main.799d33f5.css",
-    "main.js": "/wolfenstein-ascii-fps/static/js/main.7f33c591.js",
+    "main.js": "/wolfenstein-ascii-fps/static/js/main.baea5ee7.js",
     "static/media/balsamiq.woff2": "/wolfenstein-ascii-fps/static/media/balsamiq.0856531d50c3c2b0b724.woff2",
     "static/media/Typewalk1915.otf": "/wolfenstein-ascii-fps/static/media/Typewalk1915.221400c0312452466f96.otf",
     "index.html": "/wolfenstein-ascii-fps/index.html",
     "main.799d33f5.css.map": "/wolfenstein-ascii-fps/static/css/main.799d33f5.css.map",
-    "main.7f33c591.js.map": "/wolfenstein-ascii-fps/static/js/main.7f33c591.js.map"
+    "main.baea5ee7.js.map": "/wolfenstein-ascii-fps/static/js/main.baea5ee7.js.map"
   },
   "entrypoints": [
     "static/css/main.799d33f5.css",
-    "static/js/main.7f33c591.js"
+    "static/js/main.baea5ee7.js"
   ]
 }
