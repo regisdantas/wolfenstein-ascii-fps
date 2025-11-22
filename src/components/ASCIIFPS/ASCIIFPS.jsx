@@ -8,7 +8,7 @@ import {
   Mission,
   Sprite,
   Bullet,
-} from "../react-ascii-game-engine";
+} from "../ascii-game-engine";
 
 const testMission = "/examples/test-mission/test-mission.json";
 

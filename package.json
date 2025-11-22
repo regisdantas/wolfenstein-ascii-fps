@@ -1,5 +1,5 @@
 {
-  "name": "react-ascii-fps",
+  "name": "wolfenstein-ascii-fps",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -24,7 +24,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "docker-deploy": "docker rm -f react-ascii-fps-ctr ; docker build -t regismdantas/react-ascii-fps . ; docker run -it -v $(pwd)/src:/app/src -d -p 3000:3000 --name react-ascii-fps-ctr regismdantas/react-ascii-fps",
+    "docker-deploy": "docker rm -f wolfenstein-ascii-fps-ctr ; docker build -t regismdantas/wolfenstein-ascii-fps . ; docker run -it -v $(pwd)/src:/app/src -d -p 3000:3000 --name wolfenstein-ascii-fps-ctr regismdantas/wolfenstein-ascii-fps",
     "pretty": "prettier --write \"./**/*.{js,jsx,json}\""
   },
   "eslintConfig": {
